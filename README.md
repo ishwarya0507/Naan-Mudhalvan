@@ -1,2 +1,2 @@
 # Naan-Mudhalvan
-Team Project
+Medical Inventory Management Project
